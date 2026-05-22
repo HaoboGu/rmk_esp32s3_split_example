@@ -1,6 +1,6 @@
 [keyboard]
 name = "esp32s3_split"
-product_name = "esp32s3_split"
+product_name = "esp32s3_split_2"
 vendor_id = 0x4c4b
 product_id = 0x4643
 manufacturer = "RMK"
